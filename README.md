@@ -1,2 +1,2 @@
 # MACN12
-gENERATIVE DESIGN PROJECT - MDM 2023
+Generative Design Project - MDM 2023
